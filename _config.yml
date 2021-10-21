@@ -1,5 +1,5 @@
 url: http://www.dronelounge.com
-baseurl: /agency-jekyll-theme/
+baseurl: /dronelounge/
 
 # Site settings
 title: The Drone Lounge
@@ -8,8 +8,8 @@ description: "Welcome to the Drone Lounge, a low key place where I document a fe
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/auturgyptyltd
+#  - title: twitter
+#    url: http://twitter.com/auturgyptyltd
 #  - title: facebook
 #    url:
 #  - title: stack-overflow
